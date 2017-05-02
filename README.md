@@ -1,2 +1,2 @@
 # hello-world
-Just is a test.
+maven clean install.
